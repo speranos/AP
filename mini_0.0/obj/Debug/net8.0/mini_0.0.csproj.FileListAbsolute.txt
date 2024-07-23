@@ -127,3 +127,6 @@
 /Users/enima/Desktop/AP/mini_0.0/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/enima/Desktop/AP/mini_0.0/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/enima/Desktop/AP/mini_0.0/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/enima/Desktop/AP/mini_0.0/obj/Debug/net8.0/mini_0.0.sourcelink.json
+/Users/enima/Desktop/AP/mini_0.0/bin/Debug/net8.0/DotNetEnv.dll
+/Users/enima/Desktop/AP/mini_0.0/bin/Debug/net8.0/Sprache.dll
