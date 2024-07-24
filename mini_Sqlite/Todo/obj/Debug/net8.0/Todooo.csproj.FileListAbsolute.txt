@@ -1,0 +1,8 @@
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.csproj.AssemblyReference.cache
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.AssemblyInfoInputs.cache
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.AssemblyInfo.cs
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.csproj.CoreCompileInputs.cache
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.MvcApplicationPartsAssemblyInfo.cs
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.MvcApplicationPartsAssemblyInfo.cache
+/Users/enima/Desktop/AP/mini_Sqlite/Todo/obj/Debug/net8.0/Todooo.sourcelink.json
